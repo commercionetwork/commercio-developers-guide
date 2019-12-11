@@ -1,0 +1,23 @@
+{
+  "name": "commercio-developers-guide",
+  "version": "0.0.1",
+  "description": "Commercio developers guide ",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commercionetwork/commercio-developers-guide.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commercionetwork/commercio-developers-guide/issues"
+  },
+  "homepage": "https://github.com/commercionetwork/commercio-developers-guide#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
