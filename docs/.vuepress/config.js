@@ -74,7 +74,7 @@ module.exports = {
           ["4-commercio-docs/4.2-chapter", "4.2 ShareDoc(1->1. 1->n, plain/encrypted)"],
           ["4-commercio-docs/4.3-chapter", "4.3 SendReceipt(1->1)"],
           ["4-commercio-docs/4.4-chapter", "4.4 DocumentList(sent/received)"],
-          ["4-commercio-docs/4.5-chapter", "4.5 rRceiptList(sent/received)"],
+          ["4-commercio-docs/4.5-chapter", "4.5 ReceiptList(sent/received)"],
         ]
       },
       {
