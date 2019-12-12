@@ -82,6 +82,10 @@ module.exports = {
         collapsable: true,
         children: [
           ["5-commercio-sign/5.1-chapter", "5.1 eSignature primer: 3 levels of trust"],
+          ["5-commercio-sign/5.2-chapter", "5.2 Simple Electronic Signature with a Self Signed Certificate in your DDO"],
+          ["5-commercio-sign/5.3-chapter", "5.3 Prepare Document to be Signed (HEX conversion)"],
+          ["5-commercio-sign/5.4-chapter", "5.4 PAdES Signature API"],
+          ["5-commercio-sign/5.5-chapter", "5.5 XAdES Signature API"],
         ]
       },
       {
@@ -89,6 +93,8 @@ module.exports = {
         collapsable: true,
         children: [
           ["6-commercio-mint/6.1-chapter", "6.1 Algortimic Stable coins: The CDP"],
+          ["6-commercio-mint/6.2-chapter", "6.2 Opening a Collateral Debt Position: mint CCC"],
+          ["6-commercio-mint/6.3-chapter", "6.3 Closing a Collateral Debt Position: Burning CCC"],
         ]
       },
       {
@@ -96,6 +102,11 @@ module.exports = {
         collapsable: true,
         children: [
           ["7-membership/7.1-chapter", "7.1 KYC and AML primer"],
+          ["7-membership/7.2-chapter", "7.2 Creating a network of Trusted Companies"],
+          ["7-membership/7.3-chapter", "7.3 5 levels of Memberships and Benefits"],
+          ["7-membership/7.4-chapter", "7.4 Invite a Member"],
+          ["7-membership/7.5-chapter", "7.5 Buy a membership with Cash Coins"],
+          ["7-membership/7.6-chapter", "7.6 The Membership ABR Incentive system"],
         ]
       },
     ],
