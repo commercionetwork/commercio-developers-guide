@@ -11,7 +11,7 @@
 * [1.7 Consortium Governace](docs/1-fundamentals/1.7-chapter.md)
 * [1.8 eIDAS Compliance](docs/1-fundamentals/1.8-chapter.md)
 * [1.9 The Commercio Token](docs/1-fundamentals/1.9-chapter.md)
-* [1.10 Stable Chain e Stable Coin](docs/1-fundamentals/1.10-chapter.md)
+* [1.10 Stable Chain and Stable Coin](docs/1-fundamentals/1.10-chapter.md)
 * [1.11 Token issuance](docs/1-fundamentals/1.11-chapter.md)
 * [1.12 Test-net Vs Main-net](docs/1-fundamentals/1.12-chapter.md)
 
