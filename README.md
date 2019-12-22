@@ -16,10 +16,10 @@
 * [1.12 Test-net Vs Main-net](docs/1-fundamentals/1.12-chapter.md)
 
 
-2. CommercioAuth HD wallet
+2. CommercioAuth (HD wallet)
 
 * [2.1 The seed of freedom](docs/2-commercio-auth/2.1-chapter.md)
-* [2.2 Generate an HD Wallet](docs/2-commercio-auth/3.2-chapter.md)
+* [2.2 Generate an HD Wallet](docs/2-commercio-auth/2.2-chapter.md)
 * [2.3 Import a HD Wallet](docs/2-commercio-auth/2.3-chapter.md)
 * [2.4 Receive Token to a QR code of Your Address](docs/2-commercio-auth/2.4-chapter.md)
 * [2.5 Request Token from a Faucet](docs/2-commercio-auth/2.5-chapter.md)
@@ -27,3 +27,19 @@
 * [2.7 Send a Token to another QR code of the address](docs/2-commercio-auth/2.7-chapter.md)
 * [2.8 Stake your Token to become a Validator](docs/2-commercio-auth/2.8-chapter.md)
 * [2.9 Unbound your Token to end being a Validator](docs/2-commercio-auth/2.9-chapter.md)
+
+3. CommercioID (DID DDO VC)
+   
+* [3.1 DID, DDO and VC Primer](docs/3-commercio-id/3.1-chapter.md)
+* [3.2 Pairwise Did Primer](docs/3-commercio-id/3.2-chapter.md)
+* [3.3 Create a Ddo](docs/3-commercio-id/3.3-chapter.md)
+* [3.4 Request Deposit](docs/3-commercio-id/3.4-chapter.md)
+* [3.5 request Powerup](docs/3-commercio-id/3.5-chapter.md)
+* [3.6 create Connection Invitation](docs/3-commercio-id/4.6-chapter.md)
+* [3.7 Accept Connection Invitation](docs/3-commercio-id/3.7-chapter.md)
+* [3.8 Browse Verifiable Credential Offers](docs/3-commercio-id/3.8-chapter.md)
+* [3.9 Request a Verifiable Credential](docs/3-commercio-id/3.9-chapter.md)
+* [3.10 Accept Verifiable credential ](docs/3-commercio-id/3.10-chapter.md)
+  
+4. CommercioDocs (eDelivery Document exchange)
+
