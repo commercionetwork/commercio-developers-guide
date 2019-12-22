@@ -2,7 +2,7 @@
 
 1. Commercio.network Blockchain Fundamentals
 
-* [1.1 What is a Blockchain](docs/1-fundamentals/1.1-chapter.md)
+* [1.1 What is a Blockchain?](docs/1-fundamentals/1.1-chapter.md)
 * [1.2 The Documents Blockchain](docs/1-fundamentals/1.2-chapter.md)
 * [1.3 Full node Vs Validator Node](docs/1-fundamentals/1.3-chapter.md)
 * [1.4 Consensus mechanisms](docs/1-fundamentals/1.4-chapter.md)
@@ -40,6 +40,6 @@
 * [3.8 Browse Verifiable Credential Offers](docs/3-commercio-id/3.8-chapter.md)
 * [3.9 Request a Verifiable Credential](docs/3-commercio-id/3.9-chapter.md)
 * [3.10 Accept Verifiable credential ](docs/3-commercio-id/3.10-chapter.md)
-  
-4. CommercioDocs (eDelivery Document exchange)
+
+1. CommercioDocs (eDelivery Document exchange)
 
