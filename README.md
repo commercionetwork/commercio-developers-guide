@@ -16,7 +16,7 @@
 * [1.12 Test-net Vs Main-net](docs/1-fundamentals/1.12-chapter.md)
 
 
-1. CommercioAuth (HD wallet)
+2. CommercioAuth (HD wallet)
 
 * [2.1 The seed of freedom](docs/2-commercio-auth/2.1-chapter.md)
 * [2.2 Generate an HD Wallet](docs/2-commercio-auth/2.2-chapter.md)
