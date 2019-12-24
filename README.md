@@ -43,14 +43,24 @@
 
 4. CommercioDocs (eDelivery )
 * [4.1 Certified Delivery ](docs/4-commercio-docs/4.1-chapter.md)
+* [4.2 shareDoc(1->1. 1->n, plain/encrypted) ](docs/4-commercio-docs/4.2-chapter.md)
+* [4.3 sendReceipt(1->1) ](docs/4-commercio-docs/4.3-chapter.md)
+* [4.4 documentList(sent/received) ](docs/4-commercio-docs/4.4-chapter.md)
+* [4.5 receiptList(sent/received) ](docs/4-commercio-docs/4.5-chapter.md)  
 
 5. CommercioSign (eSignature )
 * [5.1 electronic signatures primer ](docs/5-commercio-sign/5.1-chapter.md)
+* [5.2 Simple Signature with Self Signed Certificate  ](docs/5-commercio-sign/5.2-chapter.md)
+* [5.3 Prepare Document to be Signed (HEX conversion) ](docs/5-commercio-sign/5.3-chapter.md)
+* [5.4 PAdES Signature API ](docs/5-commercio-sign/5.4-chapter.md)
+* [5.5 XAdES Signature API ](docs/5-commercio-sign/5.5-chapter.md)
 
 6. CommercioMint (Stablecoin  )
 * [6.1 Algortimic Stable coins: The CDP ](docs/6-commercio-mint/6.1-chapter.md)
-
+* [6.2 Opening a Collateral Debt Position: mint CCC ](docs/6-commercio-mint/6.2-chapter.md)
+* [6.3 Closing a Collateral Debt Position: Burning CCC ](docs/6-commercio-mint/6.3-chapter.md)
+  
 7. CommercioMembership (Membership )
 * [7.1 Creating a network of Trusted Companies ](docs/7-membership/7.1-chapter.md)
-
-
+* [7.2 Invite a Member ](docs/7-membership/7.2-chapter.md)
+* [7.3 Buy a membership with Cash Coins ](docs/7-membership/7.3-chapter.md)
