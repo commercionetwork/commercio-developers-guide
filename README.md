@@ -28,7 +28,7 @@
 * [2.8 Stake your Token to become a Validator](docs/2-commercio-auth/2.8-chapter.md)
 * [2.9 Unbound your Token to end being a Validator](docs/2-commercio-auth/2.9-chapter.md)
 
-3. CommercioID (DID DDO VC)
+3. CommercioID (eID )
    
 * [3.1 DID, DDO and VC Primer](docs/3-commercio-id/3.1-chapter.md)
 * [3.2 Pairwise Did Primer](docs/3-commercio-id/3.2-chapter.md)
@@ -41,13 +41,13 @@
 * [3.9 Request a Verifiable Credential](docs/3-commercio-id/3.9-chapter.md)
 * [3.10 Accept Verifiable credential ](docs/3-commercio-id/3.10-chapter.md)
 
-4. CommercioDocs (eDelivery Document exchange)
-* [4.1 ](docs/4-commercio-docs/4.1-chapter.md)
+1. CommercioDocs (eDelivery )
+* [4.1 Certified Delivery ](docs/4-commercio-docs/4.1-chapter.md)
 
 5. CommercioSign (eSignature )
 * [5.1 electronic signatures primer ](docs/5-commercio-sign/5.1-chapter.md)
 
-6. CommercioMint (Stablecoin Creation )
+1. CommercioMint (Stablecoin  )
 * [6.1 Algortimic Stable coins: The CDP ](docs/6-commercio-sign/6.1-chapter.md)
 
 7. CommercioMembership (Membership )
