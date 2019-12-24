@@ -41,5 +41,16 @@
 * [3.9 Request a Verifiable Credential](docs/3-commercio-id/3.9-chapter.md)
 * [3.10 Accept Verifiable credential ](docs/3-commercio-id/3.10-chapter.md)
 
-1. CommercioDocs (eDelivery Document exchange)
+4. CommercioDocs (eDelivery Document exchange)
+* [4.1 ](docs/4-commercio-docs/4.1-chapter.md)
+
+5. CommercioSign (eSignature )
+* [5.1 electronic signatures primer ](docs/5-commercio-sign/5.1-chapter.md)
+
+6. CommercioMint (Stablecoin Creation )
+* [6.1 Algortimic Stable coins: The CDP ](docs/6-commercio-sign/6.1-chapter.md)
+
+7. CommercioMembership (Membership )
+* [6.1 Creating a network of Trusted Companies ](docs/7-membership/7.1-chapter.md)
+
 
