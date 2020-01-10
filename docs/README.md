@@ -16,7 +16,7 @@
 * [1.12 Test-net Vs Main-net](1-fundamentals/1.12-chapter.md)
 
 
-1. CommercioAccount (HD wallet)
+2. CommercioAccount (HD wallet)
 
 * [2.1 The seed of freedom](2-commercio-account/2.1-chapter.md)
 * [2.2 Generate an HD Wallet](2-commercio-account/2.2-chapter.md)
