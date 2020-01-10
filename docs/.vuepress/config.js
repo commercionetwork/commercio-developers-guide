@@ -1,5 +1,4 @@
 module.exports = {
-  base: "/commercio-developers-guide/",
   title: "Commercio Developers Guide",
   description: "Guide to Commercio Developers",
   markdown: {
