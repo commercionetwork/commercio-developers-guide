@@ -1,19 +1,19 @@
 language: node_js
 
 node_js:
-  - "13.6.0"
+  - "13"
 
-services:
-  - docker
-  
 install:
   - npm install
 
-after_success:
-  - docker build -t $DOCKER_IMAGE .
+script:
+  - npm run docs:build
 
 deploy:
-  provider: script
-  script: docker push $DOCKER_IMAGE
+  provider: pages
+  skip-cleanup: true
+  local_dir: docs/.vuepress/dist
+  github-token: $GITHUB_TOKEN
+  keep-history: true
   on:
     branch: development
