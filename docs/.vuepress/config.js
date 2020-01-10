@@ -36,18 +36,18 @@ module.exports = {
         ]
       },
       {
-        title: "2. Commercio Auth",
+        title: "2. Commercio Account",
         collapsable: true,
         children: [
-          ["2-commercio-auth/2.1-chapter", "2.1 The seed of freedom"],
-          ["2-commercio-auth/2.2-chapter", "2.2 Generate an HD Wallet"],
-          ["2-commercio-auth/2.3-chapter", "2.3 Import a HD Wallet"],
-          ["2-commercio-auth/2.4-chapter", "2.4 Receive Token to a QR code of Your Address"],
-          ["2-commercio-auth/2.5-chapter", "2.5 Request Token from a Faucet"],
-          ["2-commercio-auth/2.6-chapter", "2.6 Check an account Balance"],
-          ["2-commercio-auth/2.7-chapter", "2.7 Send a Token to another QR code of the address"],
-          ["2-commercio-auth/2.8-chapter", "2.8 Stake your Token to become a Validator"],
-          ["2-commercio-auth/2.9-chapter", "2.9 Unbound  your Token to end being  a Validator"],
+          ["2-commercio-account/2.1-chapter", "2.1 The seed of freedom"],
+          ["2-commercio-account/2.2-chapter", "2.2 Generate an HD Wallet"],
+          ["2-commercio-account/2.3-chapter", "2.3 Import a HD Wallet"],
+          ["2-commercio-account/2.4-chapter", "2.4 Receive Token to a QR code of Your Address"],
+          ["2-commercio-account/2.5-chapter", "2.5 Request Token from a Faucet"],
+          ["2-commercio-account/2.6-chapter", "2.6 Check an account Balance"],
+          ["2-commercio-account/2.7-chapter", "2.7 Send a Token to another QR code of the address"],
+          ["2-commercio-account/2.8-chapter", "2.8 Stake your Token to become a Validator"],
+          ["2-commercio-account/2.9-chapter", "2.9 Unbound  your Token to end being  a Validator"],
         ]
       },
       {
