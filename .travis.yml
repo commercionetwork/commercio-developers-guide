@@ -1,5 +1,5 @@
 language: node_js
-
+if: branch != gh-pages
 node_js:
   - node
 
@@ -8,6 +8,7 @@ install:
 
 script:
   - npm run docs:build
+  - echo 'developers-guide.commercio.network' > docs/.vuepress/dist/CNAME
 
 deploy:
   provider: pages
