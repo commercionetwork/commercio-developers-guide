@@ -42,11 +42,11 @@
 * [3.10 Accept Verifiable credential ](3-commercio-id/3.10-chapter.md)
 
 4. CommercioDocs (eDelivery )
-* [4.1 Certified Delivery ](4-commercio-4.1-chapter.md)
-* [4.2 shareDoc(1->1. 1->n, plain/encrypted) ](4-commercio-4.2-chapter.md)
-* [4.3 sendReceipt(1->1) ](4-commercio-4.3-chapter.md)
-* [4.4 documentList(sent/received) ](4-commercio-4.4-chapter.md)
-* [4.5 receiptList(sent/received) ](4-commercio-4.5-chapter.md)  
+* [4.1 Certified Delivery ](4-commercio/4.1-chapter.md)
+* [4.2 shareDoc(1->1. 1->n, plain/encrypted) ](4-commercio/4.2-chapter.md)
+* [4.3 sendReceipt(1->1) ](4-commercio/4.3-chapter.md)
+* [4.4 documentList(sent/received) ](4-commercio-4.4/chapter.md)
+* [4.5 receiptList(sent/received) ](4-commercio-4.5/chapter.md)  
 
 5. CommercioSign (eSignature )
 * [5.1 electronic signatures primer ](5-commercio-sign/5.1-chapter.md)
