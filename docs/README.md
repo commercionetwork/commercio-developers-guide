@@ -25,10 +25,8 @@
 * [2.5 Request Token from a Faucet](2-commercio-account/2.5-chapter.md)
 * [2.6 Check an account Balance](2-commercio-account/2.6-chapter.md)
 * [2.7 Send a Token to another QR code of the address](2-commercio-account/2.7-chapter.md)
-* [2.8 Stake your Token to become a Validator](2-commercio-account/2.8-chapter.md)
-* [2.9 Unbound your Token to end being a Validator](2-commercio-account/2.9-chapter.md)
 
-3. CommercioID (eID )
+1. CommercioID (eID )
    
 * [3.1 DID, DDO and VC Primer](3-commercio-id/3.1-chapter.md)
 * [3.2 Pairwise Did Primer](3-commercio-id/3.2-chapter.md)
