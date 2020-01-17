@@ -46,8 +46,6 @@ module.exports = {
           ["2-commercio-account/2.5-chapter", "2.5 Request Token from a Faucet"],
           ["2-commercio-account/2.6-chapter", "2.6 Check an account Balance"],
           ["2-commercio-account/2.7-chapter", "2.7 Send a Token to another QR code of the address"],
-          ["2-commercio-account/2.8-chapter", "2.8 Stake your Token to become a Validator"],
-          ["2-commercio-account/2.9-chapter", "2.9 Unbound  your Token to end being  a Validator"],
         ]
       },
       {
