@@ -81,7 +81,7 @@ module.exports = {
         children: [
           ["5-commercio-sign/5.1-chapter", "5.1 eSignature primer: 3 levels of trust"],
           ["5-commercio-sign/5.2-chapter", "5.2 Simple Electronic Signature with a Self Signed Certificate in your DDO"],
-          ["5-commercio-sign/5.3-chapter", "5.3 Prepare Document to be Signed (HEX conversion)"],
+          ["5-commercio-sign/5.3-chapter", "5.3 Prepare Document to be Signed"],
           ["5-commercio-sign/5.4-chapter", "5.4 PAdES Signature API"],
           ["5-commercio-sign/5.5-chapter", "5.5 XAdES Signature API"],
         ]
