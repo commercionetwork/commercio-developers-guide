@@ -99,9 +99,9 @@ module.exports = {
         title: "7. Membership",
         collapsable: true,
         children: [
-          ["7-membership/7.1-chapter", "7.1 KYC and AML primer"],
-          ["7-membership/7.2-chapter", "7.2 Creating a network of Trusted Companies"],
-          ["7-membership/7.3-chapter", "7.3 5 levels of Memberships and Benefits"]
+          ["7-membership/7.1-chapter", "7.1 Creating a network of Trusted Companies"],
+          ["7-membership/7.2-chapter", "7.2 Invite a Member"],
+          ["7-membership/7.3-chapter", "7.3 Buy a membership with Cash Coins"]
         ]
       },
     ],
