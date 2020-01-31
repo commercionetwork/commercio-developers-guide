@@ -6,6 +6,6 @@ This repository contains the Commercio Sdk developers guide.
 
 The chapters that make up the guide can be read from this [link](docs/README.md).
 
-## Live test
+## Live demo
 
 [developers-guide.commercio.network](https://developers-guide.commercio.network)
