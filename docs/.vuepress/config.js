@@ -93,6 +93,8 @@ module.exports = {
           ["6-commercio-mint/6.1-chapter", "6.1 Algortimic Stable coins: The CDP"],
           ["6-commercio-mint/6.2-chapter", "6.2 Opening a Collateral Debt Position: mint CCC"],
           ["6-commercio-mint/6.3-chapter", "6.3 Closing a Collateral Debt Position: Burning CCC"],
+          ["6-commercio-mint/6.4-chapter", "6.4 Check an account CCC balance"],
+          ["6-commercio-mint/6.5-chapter", "6.5 Send a Credit (CCC) to another address"],
         ]
       },
       {
@@ -100,8 +102,9 @@ module.exports = {
         collapsable: true,
         children: [
           ["7-membership/7.1-chapter", "7.1 Creating a network of Trusted Companies"],
-          ["7-membership/7.2-chapter", "7.2 Invite a Member"],
+          ["7-membership/7.2-chapter", "7.2 Mint 25 CCC to purchase a Bronze membership"],
           ["7-membership/7.3-chapter", "7.3 Buy a membership with Cash Coins"]
+          ["7-membership/7.4-chapter", "7.4 Invite a Member"]
         ]
       },
     ],
