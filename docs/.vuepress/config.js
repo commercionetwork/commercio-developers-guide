@@ -103,8 +103,8 @@ module.exports = {
         children: [
           ["7-membership/7.1-chapter", "7.1 Creating a network of Trusted Companies"],
           ["7-membership/7.2-chapter", "7.2 Mint 25 CCC to purchase a Bronze membership"],
-          ["7-membership/7.3-chapter", "7.3 Buy a membership with Cash Coins"]
-          ["7-membership/7.4-chapter", "7.4 Invite a Member"]
+          ["7-membership/7.3-chapter", "7.3 Buy a membership with Cash Coins"],
+          ["7-membership/7.4-chapter", "7.4 Invite a Member"],
         ]
       },
     ],
