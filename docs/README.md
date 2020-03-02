@@ -59,9 +59,12 @@
       * [6.1 Algorithmic Stable coins: The CDP](6-commercio-mint/6.1-chapter.md)
       * [6.2 Opening a Collateral Debt Position: mint CCC](6-commercio-mint/6.2-chapter.md)
       * [6.3 Closing a Collateral Debt Position: Burning CCC](6-commercio-mint/6.3-chapter.md)
+      * [6.4 Check an account CCC balance](6-commercio-mint/6.4-chapter.md)
+      * [6.5 Send a Credit (CCC) to another address](6-commercio-mint/6.5-chapter.md)
   
 7. Commercio Membership (Membership)
 
       * [7.1 Creating a network of Trusted Companies](7-membership/7.1-chapter.md)
-      * [7.2 Invite a Member](7-membership/7.2-chapter.md)
+      * [7.2 Mint 25 CCC to purchase a Bronze membership](7-membership/7.2-chapter.md)
       * [7.3 Buy a membership with Cash Coins](7-membership/7.3-chapter.md)
+      * [7.4 Invite a Member](7-membership/7.4-chapter.md)
