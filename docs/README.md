@@ -19,11 +19,13 @@
 
       * [2.1 The seed of freedom](2-commercio-account/2.1-chapter.md)
       * [2.2 Generate an HD Wallet](2-commercio-account/2.2-chapter.md)
-      * [2.3 Import a HD Wallet](2-commercio-account/2.3-chapter.md)
-      * [2.4 Get mnemonic from secure storage and derive the wallet](2-commercio-account/2.4-chapter.md)
-      * [2.5 Request free Tokens from a Faucet](2-commercio-account/2.5-chapter.md)
-      * [2.6 Check an account Balance](2-commercio-account/2.6-chapter.md)
-      * [2.7 Send a Token to another address](2-commercio-account/2.7-chapter.md)
+      * [2.3 Backup the seed phrase mnemonic](2-commercio-account/2.3-chapter.md)
+      * [2.4 Restore your wallet from mnemonic](2-commercio-account/2.4-chapter.md)
+      * [2.5 Get mnemonic from secure storage and derive the wallet](2-commercio-account/2.5-chapter.md)
+      * [2.6 Share your QR Code](2-commercio-account/2.6-chapter.md)
+      * [2.7 Request free Tokens from a Faucet](2-commercio-account/2.7-chapter.md)
+      * [2.8 Check an account balance](2-commercio-account/2.8-chapter.md)
+      * [2.9 Scan a QR code to import an address to send a token to](2-commercio-account/2.9-chapter.md)
 
 3. Commercio ID (eID)
 
