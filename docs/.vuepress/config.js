@@ -47,7 +47,7 @@ module.exports = {
           ["2-commercio-account/2.6-chapter", "2.6 Share your QR Code"],
           ["2-commercio-account/2.7-chapter", "2.7 Request free Tokens from a Faucet"],
           ["2-commercio-account/2.8-chapter", "2.8 Check an account balance"],
-          ["2-commercio-account/2.9-chapter", "2.9 Scan a QR code to import an address to send a token to"],
+          ["2-commercio-account/2.9-chapter", "2.9 Send a Token to another address"],
         ]
       },
       {
