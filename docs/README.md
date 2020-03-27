@@ -26,6 +26,7 @@
       * [2.7 Request free Tokens from a Faucet](2-commercio-account/2.7-chapter.md)
       * [2.8 Check an account balance](2-commercio-account/2.8-chapter.md)
       * [2.9 Send a Token to another address](2-commercio-account/2.9-chapter.md)
+      * [2.10 Generate many addresses with a single mnemonic](2-commercio-account/2.10-chapter.md)
 
 3. Commercio ID (eID)
 
