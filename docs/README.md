@@ -65,9 +65,9 @@
       * [6.4 Check an account CCC balance](6-commercio-mint/6.4-chapter.md)
       * [6.5 Send a Credit (CCC) to another address](6-commercio-mint/6.5-chapter.md)
   
-7. Commercio Membership (Membership)
+7. Commercio KYC (Membership)
 
-      * [7.1 Creating a network of Trusted Companies](7-membership/7.1-chapter.md)
-      * [7.2 Mint 25 CCC to purchase a Bronze membership](7-membership/7.2-chapter.md)
-      * [7.3 Buy a membership with Cash Coins](7-membership/7.3-chapter.md)
-      * [7.4 Invite a Member](7-membership/7.4-chapter.md)
+      * [7.1 Creating a network of Trusted Companies](7-commercio-kyc/7.1-chapter.md)
+      * [7.2 Mint 25 CCC to purchase a Bronze membership](7-commercio-kyc/7.2-chapter.md)
+      * [7.3 Buy a membership with Cash Coins](7-commercio-kyc/7.3-chapter.md)
+      * [7.4 Invite a Member](7-commercio-kyc/7.4-chapter.md)
