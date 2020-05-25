@@ -45,7 +45,7 @@ module.exports = {
           ["2-commercio-account/2.4-chapter", "2.4 Restore your wallet from mnemonic"],
           ["2-commercio-account/2.5-chapter", "2.5 Get mnemonic from secure storage and derive the wallet"],
           ["2-commercio-account/2.6-chapter", "2.6 Share your QR Code"],
-          ["2-commercio-account/2.7-chapter", "2.7 Request free Tokens from a Faucet"],
+          ["2-commercio-account/2.7-chapter", "2.7 Request invite and free Tokens from a Faucet"],
           ["2-commercio-account/2.8-chapter", "2.8 Check an account balance"],
           ["2-commercio-account/2.9-chapter", "2.9 Send a Token to another address"],
           ["2-commercio-account/2.10-chapter", "2.10 Generate many addresses with a single mnemonic"],
