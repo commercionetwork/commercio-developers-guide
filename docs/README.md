@@ -34,11 +34,6 @@
       * [3.2 Pairwise Did Primer](3-commercio-id/3.2-chapter.md)
       * [3.3 Create a Ddo](3-commercio-id/3.3-chapter.md)
       * [3.4 Request PowerUp](3-commercio-id/3.4-chapter.md)
-      * [3.5 create Connection Invitation](3-commercio-id/3.5-chapter.md)
-      * [3.6 Accept Connection Invitation](3-commercio-id/3.6-chapter.md)
-      * [3.7 Browse Verifiable Credential Offers](3-commercio-id/3.7-chapter.md)
-      * [3.8 Request a Verifiable Credential](3-commercio-id/3.8-chapter.md)
-      * [3.9 Accept Verifiable credential](3-commercio-id/3.9-chapter.md)
 
 4. Commercio Docs (eDelivery)
 

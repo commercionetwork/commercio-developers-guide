@@ -59,11 +59,6 @@ module.exports = {
           ["3-commercio-id/3.2-chapter", "3.2 Pairwise Did Primer"],
           ["3-commercio-id/3.3-chapter", "3.3 Create a Ddo"],
           ["3-commercio-id/3.4-chapter", "3.4 Request Powerup"],
-          ["3-commercio-id/3.5-chapter", "3.5 Create Connection Invitation"],
-          ["3-commercio-id/3.6-chapter", "3.6 Accept Connection Invitation"],
-          ["3-commercio-id/3.7-chapter", "3.7 Browse Verifiable Credential Offers"],
-          ["3-commercio-id/3.8-chapter", "3.8 Request a Verifiable Credential"],
-          ["3-commercio-id/3.9-chapter", "3.9 Accept Verifiable credential "],
         ]
       },
       {
