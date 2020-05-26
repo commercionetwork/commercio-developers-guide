@@ -70,6 +70,9 @@ module.exports = {
           ["4-commercio-docs/4.3-chapter", "4.3 sendReceipt(1->1)"],
           ["4-commercio-docs/4.4-chapter", "4.4 documentList(sent/received)"],
           ["4-commercio-docs/4.5-chapter", "4.5 receiptList(sent/received)"],
+          ["4-commercio-docs/4.6-chapter", "4.6 Prepare Document to be Signed"],
+          ["4-commercio-docs/4.7-chapter", "4.7 PAdES Signature API"],
+          ["4-commercio-docs/4.8-chapter", "4.8 XAdES Signature API"],
         ]
       },
       {
@@ -78,9 +81,6 @@ module.exports = {
         children: [
           ["5-commercio-sign/5.1-chapter", "5.1 Electronic signatures Primer"],
           ["5-commercio-sign/5.2-chapter", "5.2 Simple Electronic Signature with a Self Signed Certificate in your DDO"],
-          ["5-commercio-sign/5.3-chapter", "5.3 Prepare Document to be Signed"],
-          ["5-commercio-sign/5.4-chapter", "5.4 PAdES Signature API"],
-          ["5-commercio-sign/5.5-chapter", "5.5 XAdES Signature API"],
         ]
       },
       {

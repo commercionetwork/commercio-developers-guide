@@ -41,15 +41,15 @@
       * [4.2 shareDoc(1->1. 1->n, plain/encrypted)](4-commercio-docs/4.2-chapter.md)
       * [4.3 sendReceipt(1->1)](4-commercio-docs/4.3-chapter.md)
       * [4.4 documentList(sent/received)](4-commercio-docs/4.4-chapter.md)
-      * [4.5 receiptList(sent/received)](4-commercio-docs/4.5-chapter.md)  
+      * [4.5 receiptList(sent/received)](4-commercio-docs/4.5-chapter.md)
+      * [4.6 Prepare Document to be Signed](4-commercio-docs/4.6-chapter.md)
+      * [4.7 PAdES Signature API](4-commercio-docs/4.7-chapter.md)
+      * [4.8 XAdES Signature API](4-commercio-docs/4.8-chapter.md)
 
 5. Commercio Sign (eSignature)
 
       * [5.1 Electronic signatures Primer](5-commercio-sign/5.1-chapter.md)
       * [5.2 Simple Electronic Signature with a Self Signed Certificate in your DDO](5-commercio-sign/5.2-chapter.md)
-      * [5.3 Prepare Document to be Signed](5-commercio-sign/5.3-chapter.md)
-      * [5.4 PAdES Signature API](5-commercio-sign/5.4-chapter.md)
-      * [5.5 XAdES Signature API](5-commercio-sign/5.5-chapter.md)
 
 6. Commercio Mint (Stablecoin)
 
