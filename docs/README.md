@@ -23,7 +23,7 @@
       * [2.4 Restore your wallet from mnemonic](2-commercio-account/2.4-chapter.md)
       * [2.5 Get mnemonic from secure storage and derive the wallet](2-commercio-account/2.5-chapter.md)
       * [2.6 Share your QR Code](2-commercio-account/2.6-chapter.md)
-      * [2.7 Request free Tokens from a Faucet](2-commercio-account/2.7-chapter.md)
+      * [2.7 Request invite and free Tokens from a Faucet](2-commercio-account/2.7-chapter.md)
       * [2.8 Check an account balance](2-commercio-account/2.8-chapter.md)
       * [2.9 Send a Token to another address](2-commercio-account/2.9-chapter.md)
       * [2.10 Generate many addresses with a single mnemonic](2-commercio-account/2.10-chapter.md)
@@ -33,13 +33,7 @@
       * [3.1 DID, DDO and VC Primer](3-commercio-id/3.1-chapter.md)
       * [3.2 Pairwise Did Primer](3-commercio-id/3.2-chapter.md)
       * [3.3 Create a Ddo](3-commercio-id/3.3-chapter.md)
-      * [3.4 Request Deposit](3-commercio-id/3.4-chapter.md)
-      * [3.5 Request PowerUp](3-commercio-id/3.5-chapter.md)
-      * [3.6 create Connection Invitation](3-commercio-id/4.6-chapter.md)
-      * [3.7 Accept Connection Invitation](3-commercio-id/3.7-chapter.md)
-      * [3.8 Browse Verifiable Credential Offers](3-commercio-id/3.8-chapter.md)
-      * [3.9 Request a Verifiable Credential](3-commercio-id/3.9-chapter.md)
-      * [3.10 Accept Verifiable credential](3-commercio-id/3.10-chapter.md)
+      * [3.4 Request PowerUp](3-commercio-id/3.4-chapter.md)
 
 4. Commercio Docs (eDelivery)
 
@@ -47,7 +41,7 @@
       * [4.2 shareDoc(1->1. 1->n, plain/encrypted)](4-commercio-docs/4.2-chapter.md)
       * [4.3 sendReceipt(1->1)](4-commercio-docs/4.3-chapter.md)
       * [4.4 documentList(sent/received)](4-commercio-docs/4.4-chapter.md)
-      * [4.5 receiptList(sent/received)](4-commercio-docs/4.5-chapter.md)  
+      * [4.5 receiptList(sent/received)](4-commercio-docs/4.5-chapter.md)
 
 5. Commercio Sign (eSignature)
 
@@ -65,9 +59,9 @@
       * [6.4 Check an account CCC balance](6-commercio-mint/6.4-chapter.md)
       * [6.5 Send a Credit (CCC) to another address](6-commercio-mint/6.5-chapter.md)
   
-7. Commercio Membership (Membership)
+7. Commercio KYC (Membership)
 
-      * [7.1 Creating a network of Trusted Companies](7-membership/7.1-chapter.md)
-      * [7.2 Mint 25 CCC to purchase a Bronze membership](7-membership/7.2-chapter.md)
-      * [7.3 Buy a membership with Cash Coins](7-membership/7.3-chapter.md)
-      * [7.4 Invite a Member](7-membership/7.4-chapter.md)
+      * [7.1 Creating a network of Trusted Companies](7-commercio-kyc/7.1-chapter.md)
+      * [7.2 Mint 25 CCC to purchase a Bronze membership](7-commercio-kyc/7.2-chapter.md)
+      * [7.3 Buy a membership with Cash Coins](7-commercio-kyc/7.3-chapter.md)
+      * [7.4 Invite a Member](7-commercio-kyc/7.4-chapter.md)

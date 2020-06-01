@@ -45,7 +45,7 @@ module.exports = {
           ["2-commercio-account/2.4-chapter", "2.4 Restore your wallet from mnemonic"],
           ["2-commercio-account/2.5-chapter", "2.5 Get mnemonic from secure storage and derive the wallet"],
           ["2-commercio-account/2.6-chapter", "2.6 Share your QR Code"],
-          ["2-commercio-account/2.7-chapter", "2.7 Request free Tokens from a Faucet"],
+          ["2-commercio-account/2.7-chapter", "2.7 Request invite and free Tokens from a Faucet"],
           ["2-commercio-account/2.8-chapter", "2.8 Check an account balance"],
           ["2-commercio-account/2.9-chapter", "2.9 Send a Token to another address"],
           ["2-commercio-account/2.10-chapter", "2.10 Generate many addresses with a single mnemonic"],
@@ -58,13 +58,7 @@ module.exports = {
           ["3-commercio-id/3.1-chapter", "3.1 DID, DDO and VC Primer"],
           ["3-commercio-id/3.2-chapter", "3.2 Pairwise Did Primer"],
           ["3-commercio-id/3.3-chapter", "3.3 Create a Ddo"],
-          ["3-commercio-id/3.4-chapter", "3.4 Request Deposit"],
-          ["3-commercio-id/3.5-chapter", "3.5 Request Powerup"],
-          ["3-commercio-id/3.6-chapter", "3.6 Create Connection Invitation"],
-          ["3-commercio-id/3.7-chapter", "3.7 Accept Connection Invitation"],
-          ["3-commercio-id/3.8-chapter", "3.8 Browse Verifiable Credential Offers"],
-          ["3-commercio-id/3.9-chapter", "3.9 Request a Verifiable Credential"],
-          ["3-commercio-id/3.10-chapter", "3.10 Accept Verifiable credential "],
+          ["3-commercio-id/3.4-chapter", "3.4 Request Powerup"],
         ]
       },
       {
@@ -101,13 +95,13 @@ module.exports = {
         ]
       },
       {
-        title: "7. Membership",
+        title: "7. Commercio KYC",
         collapsable: true,
         children: [
-          ["7-membership/7.1-chapter", "7.1 Creating a network of Trusted Companies"],
-          ["7-membership/7.2-chapter", "7.2 Mint 25 CCC to purchase a Bronze membership"],
-          ["7-membership/7.3-chapter", "7.3 Buy a membership with Cash Coins"],
-          ["7-membership/7.4-chapter", "7.4 Invite a Member"],
+          ["7-commercio-kyc/7.1-chapter", "7.1 Creating a network of Trusted Companies"],
+          ["7-commercio-kyc/7.2-chapter", "7.2 Mint 25 CCC to purchase a Bronze membership"],
+          ["7-commercio-kyc/7.3-chapter", "7.3 Buy a membership with Cash Coins"],
+          ["7-commercio-kyc/7.4-chapter", "7.4 Invite a Member"],
         ]
       },
     ],
