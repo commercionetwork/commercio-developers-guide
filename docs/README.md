@@ -1,5 +1,15 @@
 # Index
 
+:::tip Contribute
+
+If you have questions or comments, please create an [issue](https://github.com/commercionetwork/commercio-developers-guide/issues).
+This is a community guide  any contribute is important! Please help us to improve by opening an [issue](https://github.com/commercionetwork/commercio-developers-guide/issues).
+
+:::
+
+
+
+
 1. Commercio.network Blockchain Fundamentals
 
       * [1.1 The Documents Blockchain](1-fundamentals/1.1-chapter.md)
