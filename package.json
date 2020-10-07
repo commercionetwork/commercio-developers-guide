@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/commercionetwork/commercio-developers-guide#readme",
   "devDependencies": {
-    "vuepress": "^1.5.0"
+    "vuepress": "^1.5.3"
   }
 }
